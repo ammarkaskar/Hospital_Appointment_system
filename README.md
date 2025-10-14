@@ -1,6 +1,5 @@
+ 🏥 Hospital Appointment System 
  ```
-# 🏥 Hospital Appointment System
-
 A simple and efficient Hospital Appointment Booking System that allows patients to book appointments with doctors and lets admins manage schedules, doctors, and patient records. This project is built with a focus on clean database design, secure API handling, and easy deployment.
 
 ## 🚀 Features
